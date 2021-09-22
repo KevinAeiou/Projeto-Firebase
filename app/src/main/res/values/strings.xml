@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ProjetoFirebase</string>
+    <string name="edtEmail">Email</string>
+    <string name="edtSenha">Senha</string>
+    <string name="edtEsqueceuSenha">Esqueceu a senha?</string>
+    <string name="entrar">Entrar</string>
+    <string name="txtCadastrese">Não possui uma conta? Cadastre-se.</string>
+    <string name="deslogar">Deslogar</string>
+    <string name="txtCadastre_se">Cadastre-se</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtCadastrar">Cadastrar</string>
 </resources>
